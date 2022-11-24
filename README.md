@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Boadanya
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in caffeine, books, games and drawing, also programming
 - 🌱 I’m currently learning the fullstack developer in a dio bootcamp and drawing 
 - 💞️ I’m looking to collaborate on whatever project, 
